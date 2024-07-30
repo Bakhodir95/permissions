@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425925633468",
+    "project_id": "telegram-chat-299af",
+    "storage_bucket": "telegram-chat-299af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425925633468:android:0d1ffc6ac3043a2882b7b9",
+        "android_client_info": {
+          "package_name": "com.example.lesson72"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCPpdKAb_F38ycI-xKBFjgkybcpKVhI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425925633468:android:715e64da16b0c36a82b7b9",
+        "android_client_info": {
+          "package_name": "com.example.telegram_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCPpdKAb_F38ycI-xKBFjgkybcpKVhI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
